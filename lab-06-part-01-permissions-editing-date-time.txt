@@ -111,7 +111,10 @@ $ ./copy_to_backup.sh
 
 What command did you use to try to execute the file?  What happens?
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ ./copy_to_backup.sh
 
+No output
 
 
 ==========
@@ -137,12 +140,16 @@ The current directory means wherever you happen to be running the commands.
 
 Write out the code in your file below...
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ nano copy_to_backup.sh
 
 
 
 ==========
 10. Create a directory in your HOME called test
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ mkdir test
 
 
 
@@ -151,6 +158,11 @@ Write out the code in your file below...
 
 What commands did you use to do this?
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ touch 1.txt
+
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ touch 2.txt
 
 
 
