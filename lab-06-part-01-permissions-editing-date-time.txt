@@ -32,7 +32,7 @@ What command did you use, and what was its output?
 jmthe@LAPTOP-UU383S6J MINGW64 ~
 $ cal
 bash: cal: command not found
-(Using git for windows)
+(Using git for windows; Original answers missing because I forgot to save after logging out.)
 
 
 ==========
@@ -95,7 +95,13 @@ $ ls -l copy_to_backup.sh
 
 What commands did you use to do this?  What was the output?
 ----------
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ chmod u+x copy_to_backup.sh
 
+jmthe@LAPTOP-UU383S6J MINGW64 ~/Desktop
+$ ls -l copy_to_backup.sh
+-rw-r--r-- 1 jmthe 197609 0 Mar 22 19:21 copy_to_backup.sh
+(Using git for windows)
 
 
 ==========
